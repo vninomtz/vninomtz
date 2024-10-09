@@ -3,7 +3,7 @@
 Software Engineer
 
 - I’m currently working on enterprise systems and resolving related problems
-- I’m currently interested in Golang, Distributed Systems, CRDTs, software solutions design and software development process like RUP, XP and DevOps. 
+- I’m currently interested in Golang, Distributed Systems, Networking, design and more.
 - I'm looking to make a life by researching and building about software
 
 ## Hobbies & Other
